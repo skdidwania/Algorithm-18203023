@@ -18,7 +18,7 @@
 # Built With
 * Intellij-Integrated Development Environment
 
-# Authors
+# Author
 * Shri Krishna Didwania
 
 # Acknowledgments
