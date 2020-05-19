@@ -1,6 +1,7 @@
 # Project Title
 * This repository contains all the codes(the java files as well as the documentation) for the practicals for Algorithms. It also has the programming assignment on Huffman Compression. 
-The codes are committed during the course of the module. The zip files containing the documentation is uploaded at the end
+The codes are committed during the course of the module. The zip files containing the documentation is uploaded at the end.
+Specifically for Lab-7-Please set the file path to the files in the zip folder and make necessary changes in the code on your pc
 # Getting Started
 * Download the final zip files.
 * It has all the java codes and the pdfs.
