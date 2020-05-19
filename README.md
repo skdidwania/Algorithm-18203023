@@ -6,6 +6,7 @@
 * It has all the java codes and the pdfs.
 * Run the java code to see the output
 * Please check the pdfs for documentation
+* The codes are committed during the course of the module. The zip files containing the documentation is uploaded at the end
 
 # Prerequisites
 * Install the JDK  and make sure it works on the system by making all the necessary changes
